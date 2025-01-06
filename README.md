@@ -10,7 +10,8 @@ I am a developer passionate about clean code and building innovative projects.
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux)
-
+## My contribution
+https://raw.githubusercontent.com/walidbenf/walidbenf/output/github-contribution-grid-snake.svg
 ## 🏆 Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
