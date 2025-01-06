@@ -18,6 +18,6 @@ I am a developer passionate about clean code and building innovative projects.
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=contribs,issues)
 
 ## 🔥 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight&hide=language1,php,html,css)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight&hide=javascript,php,html,css)
 ## 🔗 Useful Links
 - [LinkedIn](https://www.linkedin.com/in/walid-ben-farhat-a03497187/)
