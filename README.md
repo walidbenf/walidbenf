@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am a developer passionate about clean code and building innovative projects.
+I am a developer passionate about code and building innovative projects.
 
 ## 🌟 My Skills
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
