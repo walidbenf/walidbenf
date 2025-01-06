@@ -11,7 +11,7 @@ I am a developer passionate about clean code and building innovative projects.
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux)
 
-## Contributions
+## 💻 My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbenf/walidbenf/main/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbenf/walidbenf/main/dist/github-snake.svg" />
