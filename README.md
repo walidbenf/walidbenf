@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I am a developer passionnate about code
+I am a developer passionnate about cod
 
 ## 🌟 Mes compétences
-| **Front-end**   | **Back-end**       | **Cloud**        |
-|------------------|--------------------|------------------|
-| React, TailwindCSS | Node.js, Python   | Docker, AWS      |
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+
 
 ## 📊 Stats GitHub
 
