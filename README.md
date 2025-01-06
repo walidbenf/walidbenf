@@ -16,7 +16,6 @@ I am a developer passionate about clean code and building innovative projects.
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=walidbenf&theme=radical)](https://git.io/streak-stats)
 
 ## 🔥 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=radical)
