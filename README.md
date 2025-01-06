@@ -12,8 +12,6 @@ I am a developer passionate about clean code and building innovative projects.
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux)
 ## My contribution
 https://raw.githubusercontent.com/walidbenf/walidbenf/output/github-contribution-grid-snake.svg
-## 🏆 Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=contribs,issues)
@@ -22,3 +20,6 @@ https://raw.githubusercontent.com/walidbenf/walidbenf/output/github-contribution
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight&hide=javascript,php,html,css,scss,twig,gsc)
 ## 🔗 Useful Links
 - [LinkedIn](https://www.linkedin.com/in/walid-ben-farhat-a03497187/)
+
+## 🏆 Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
