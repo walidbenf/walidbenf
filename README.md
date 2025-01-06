@@ -30,7 +30,6 @@ I am a developer passionate about code and building innovative projects.
 [![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Follow
-![Followers](https://img.shields.io/github/followers/walidbenf?style=social)
-
+[![Followers](https://img.shields.io/github/followers/walidbenf?style=social)](https://github.com/walidbenf)
 ![Profile Views](https://komarev.com/ghpvc/?username=walidbenf)
 
