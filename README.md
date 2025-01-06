@@ -15,9 +15,9 @@ I am a developer passionate about clean code and building innovative projects.
 [![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=stars,contribs&exclude)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=stars,contribs)
 
 ## 🔥 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf)](https://github.com/walidbenf/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight&repo=Symfony-LPS,HTML-CSS-LPS,HTML-CSS-ADV-LPS,LePoleS)
 ## 🔗 Useful Links
 - [LinkedIn](https://www.linkedin.com/in/walid-ben-farhat-a03497187/)
