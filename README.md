@@ -13,9 +13,9 @@ I am a developer passionate about clean code and building innovative projects.
 
 ## Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<ton-username>/<ton-repo>/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ton-username>/<ton-repo>/main/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<ton-username>/<ton-repo>/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbenf/walidbenf/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbenf/walidbenf/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/walidbenf/walidbenf/main/dist/github-snake.svg" />
 </picture>
 
 ## 📊 GitHub Stats
