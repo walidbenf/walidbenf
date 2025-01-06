@@ -15,7 +15,7 @@ I am a developer passionate about clean code and building innovative projects.
 [![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=contribs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=contribs,issues)
 
 ## 🔥 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight&repo=Symfony-LPS,HTML-CSS-LPS,HTML-CSS-ADV-LPS,LePoleS)
