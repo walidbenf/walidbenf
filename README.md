@@ -8,13 +8,17 @@ I am a developer passionate about clean code and building innovative projects.
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux)
+
+## 🏆 Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=walidbenf&theme=radical)](https://git.io/streak-stats)
 
 ## 🔥 Most Used Languages
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=radical)
 
 ## 🔗 Useful Links
