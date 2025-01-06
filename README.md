@@ -12,13 +12,13 @@ I am a developer passionate about clean code and building innovative projects.
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux)
 
 ## 🏆 Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=merko)
 
 ## 🔥 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=merko)
 
 ## 🔗 Useful Links
 - [LinkedIn](https://www.linkedin.com/in/walid-ben-farhat-a03497187/)
