@@ -3,7 +3,6 @@
 I am a developer passionate about code and building innovative projects.
 
 ## 🌟 My Skills
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
