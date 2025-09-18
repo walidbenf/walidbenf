@@ -18,7 +18,8 @@ I am a developer passionate about code and building innovative projects.
 </picture>
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf&show_icons=true&theme=tokyonight&hide=contribs,issues)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidbenf)]
+
 
 ## 🔥 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbenf&layout=compact&theme=tokyonight&hide=javascript,php,html,css,scss,twig,gsc)
