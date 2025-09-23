@@ -29,9 +29,7 @@ I am a developer passionate about code and building innovative projects.
 
 ## 🚀 My Boot.dev Profile
 <p align="left">
-  <img 
-    src="https://api.boot.dev/v1/users/public/59ffcd65-5214-4cdb-9d2c-bf9525742d37/thumbnail" 
-    style="width:300px; height:auto; border: 4px solid #4CAF50; border-radius: 20px;">
+  <img src="https://api.boot.dev/v1/users/public/59ffcd65-5214-4cdb-9d2c-bf9525742d37/thumbnail" style="width:300px; height:auto;">
 </p>
 
 
