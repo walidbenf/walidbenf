@@ -28,7 +28,7 @@ I am a developer passionate about code and building innovative projects.
 [![Trophies](https://github-profile-trophy.vercel.app/?username=walidbenf&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/59ffcd65-5214-4cdb-9d2c-bf9525742d37/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/59ffcd65-5214-4cdb-9d2c-bf9525742d37/thumbnail" style="width:150px; height:auto;">
 </p>
 
 ## 👥 Follow me
